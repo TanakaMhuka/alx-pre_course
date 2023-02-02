@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ALX School is open!
 #!/bin/bash 
+=======
+The school is open!
+#!/bin/bash
+>>>>>>> update_script
